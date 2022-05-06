@@ -1,7 +1,9 @@
 数字识别
-https://blog.csdn.net/qq_44936246/article/details/113818086?spm=1001.2101.3001.6650.17&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-17.pc_relevant_paycolumn_v3&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-17.pc_relevant_paycolumn_v3&utm_relevant_index=20
-
+训练集http://www.pjreddie.com/media/files/mnist_train.csv
+测试集 http://www.pjreddie.com/media/files/mnist_test.csv
 https://blog.csdn.net/ebzxw/article/details/81591437
+
+https://blog.csdn.net/qq_44936246/article/details/113818086?spm=1001.2101.3001.6650.17&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-17.pc_relevant_paycolumn_v3&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-17.pc_relevant_paycolumn_v3&utm_relevant_index=20
 
 https://blog.csdn.net/weixin_45690354/article/details/120933518?spm=1001.2101.3001.6650.5&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-5.pc_relevant_aa&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-5.pc_relevant_aa&utm_relevant_index=10
 
